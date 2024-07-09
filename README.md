@@ -19,7 +19,7 @@ This project is built using Java Spring Boot and MySQL for the database. It impl
 
 **Client:** HTML,CSS
 
-**Server:** Java, SpringBoot
+**Server:** Java, SpringBoot, Mysql
 
 
 ## Lessons Learned
